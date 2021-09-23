@@ -1,4 +1,4 @@
-# Minion Bnanan Talk
+# Minion Banana Talk
 
  Banana Language the gibberish that the hysterical yellow Minions from the Despicable Me movies.
 
